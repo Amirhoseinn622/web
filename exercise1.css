@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+    font-family: "B Nazanin";
+}
+p{
+    color: #3892db;
+    font-style: italic;
+    font-family: "B Nazanin";
+font-size: x-large;
+}
+h2{
+    color: red;
+}
+ul.tag{
+color: blueviolet;
+font-size: large;
+}
+ol.tag1{
+    color: #64bf47;
+    font-size: larger;
+}
+ul.tag2{
+    color: saddlebrown;
+    font-size: x-large;
+}
+ol.tag2{
+    color: darkred;
+    font-size: xx-large;
+}
