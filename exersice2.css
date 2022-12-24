@@ -1,0 +1,39 @@
+#a{
+    color: red;
+    font-size: xxx-large;
+}
+.b{
+    color: blue;
+    font-size: xxx-large;
+}
+.d{
+    color: green;
+    font-size: xxx-large;
+}
+#top{
+    color: chartreuse;
+    font-size: xxx-large;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+a{
+    color: mediumblue;
+    text-decoration: none;
+}
+.t{
+    font-size: xxx-large;
+    font-style: oblique;
+}
+div{
+    font-size: x-large;
+    font-style: italic;
+}
+p{
+    font-size: xx-large;
+    font-style: oblique;
+}
+*{
+ background: cornsilk;
+}
